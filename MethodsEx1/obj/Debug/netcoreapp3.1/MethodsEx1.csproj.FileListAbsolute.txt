@@ -1,0 +1,14 @@
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\bin\Debug\netcoreapp3.1\MethodsEx1.exe
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\bin\Debug\netcoreapp3.1\MethodsEx1.deps.json
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\bin\Debug\netcoreapp3.1\MethodsEx1.runtimeconfig.json
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\bin\Debug\netcoreapp3.1\MethodsEx1.runtimeconfig.dev.json
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\bin\Debug\netcoreapp3.1\MethodsEx1.dll
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\bin\Debug\netcoreapp3.1\MethodsEx1.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\obj\Debug\netcoreapp3.1\MethodsEx1.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\obj\Debug\netcoreapp3.1\MethodsEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\obj\Debug\netcoreapp3.1\MethodsEx1.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\obj\Debug\netcoreapp3.1\MethodsEx1.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\obj\Debug\netcoreapp3.1\MethodsEx1.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\obj\Debug\netcoreapp3.1\MethodsEx1.dll
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\obj\Debug\netcoreapp3.1\MethodsEx1.pdb
+C:\Users\roger\OneDrive\Desktop\REPO\MethodsEx1\MethodsEx1\obj\Debug\netcoreapp3.1\MethodsEx1.genruntimeconfig.cache
